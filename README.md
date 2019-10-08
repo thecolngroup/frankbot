@@ -1,5 +1,5 @@
 # frankbot
-talktofrank.com re-imagined as a messenger bot.
+[talktofrank.com] re-imagined as a messenger bot.
 
 Our first project is FRANKbot 🤖.
 
